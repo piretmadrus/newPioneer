@@ -57,7 +57,7 @@
     "prompt": "",
     "rimraf": "",
     "selenium-webdriver": "2.47.0",
-    "update-notifier": "0.6.0"
+    "update-notifier": "0.1.10"
   },
   "bugs": {
     "url": "https://github.com/mojotech/pioneer/issues"
