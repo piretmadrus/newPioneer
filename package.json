@@ -50,14 +50,14 @@
     "chai": "1.10.0",
     "chai-as-promised": "4.1.0",
     "colors": "0.6.2",
-    "cucumber": "joshtombs/cucumber-js#0.3.3ErrorFormatting",
+    "cucumber": "0.4.0",
     "lodash": "",
     "minimist": "0.2.0",
     "moment": "",
     "prompt": "",
     "rimraf": "",
     "selenium-webdriver": "2.47.0",
-    "update-notifier": "0.1.10"
+    "update-notifier": "0.6.0"
   },
   "bugs": {
     "url": "https://github.com/mojotech/pioneer/issues"
