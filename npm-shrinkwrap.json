@@ -1,6 +1,6 @@
 {
   "name": "newPioneer",
-  "version": "0.11.20",
+  "version": "0.11.21",
   "dependencies": {
     "bluebird": {
       "version": "3.0.5",
@@ -411,7 +411,8 @@
           "resolved": "https://registry.npmjs.org/semver/-/semver-2.3.2.tgz"
         }
       }
-    },"prompt": {
+    },
+    "prompt": {
       "version": "0.2.13",
       "from": "prompt@0.2.13",
       "resolved": "https://registry.npmjs.org/prompt/-/prompt-0.2.13.tgz",
