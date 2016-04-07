@@ -46,17 +46,17 @@
     "sinon-chai": ""
   },
   "dependencies": {
-    "bluebird": "3.3.4",
-    "chai": "1.10.0",
+    "bluebird": "1.2.4",
+    "chai": "1.9.2",
     "chai-as-promised": "4.1.0",
     "colors": "0.6.2",
     "cucumber": "joshtombs/cucumber-js#0.3.3ErrorFormatting",
-    "lodash": "",
+    "lodash": "2.2.1",
     "minimist": "0.2.0",
-    "moment": "",
-    "prompt": "",
-    "rimraf": "",
-    "selenium-webdriver": "2.47.0",
+    "moment": "2.6.0",
+    "prompt": "0.2.13",
+    "rimraf": "2.2.8",
+    "selenium-webdriver": "2.41.0",
     "update-notifier": "0.1.10"
   },
   "bugs": {
